@@ -47,7 +47,7 @@ Projetos #boraCodar da Rocketseat
             <tr>
                 <td>06</td>
                 <td>Boarding Pass</td>
-                <td>16/02/2023</td>
+                <td>16/02/23</td>
                 <td><a href="06">🔗</a></td>
             </tr>
         </tbody>
